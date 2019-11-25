@@ -20,5 +20,4 @@ Specialized visualization plots:
 
 - Box plots
 
-- Scatter plots
-
+- Scatter plots (including bubble plot)
