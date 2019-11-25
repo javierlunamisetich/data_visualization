@@ -4,7 +4,7 @@ CONTENT:
 
 
 
-WEEK 2
+**WEEK 2**
 
 Basic visualization plots:
 
@@ -21,3 +21,16 @@ Specialized visualization plots:
 - Box plots
 
 - Scatter plots (including bubble plot)
+
+**WEEK 3**
+
+Advanced visualization tools:
+
+- Waffle Charts
+
+- Word Clouds
+
+- Seaborn and Regression plots
+
+Visualizing Geospatial Data
+
