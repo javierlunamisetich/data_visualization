@@ -8,11 +8,11 @@ WEEK 2
 
 Basic visualization plots:
 
--Area plots
+- Area plots
 
--Histograms
+- Histograms
 
--Bar charts
+- Bar charts
 
 Specialized visualization plots:
 
